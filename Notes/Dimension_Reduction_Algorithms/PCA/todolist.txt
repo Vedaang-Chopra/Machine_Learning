@@ -1,0 +1,2 @@
+1. Try to plot eigen vectors and values, to see how new direction is compared to older directions
+2. 

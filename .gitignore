@@ -173,3 +173,7 @@ cython_debug/
 # Files to ignore
 Supervised_Learning_Projects/Analytics_Jobathon_Insurance_projects/Dataset
 Supervised Learning/Cognizance Assignments
+
+
+# Extensions to ignore
+*.rar
